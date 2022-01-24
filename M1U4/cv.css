@@ -18,6 +18,9 @@ li{
 H6{
     background-color: coral;
     font-size: large;
+    width: 300px;
+    text-align: center;
+    border: 2px solid black;
 }
 .DESTACADOS{
     color: crimson;
@@ -25,5 +28,8 @@ H6{
 }
 .DESTACADOPERFIL{
     text-decoration-line: underline;
-    text-decoration-thickness: 12;
+}
+.DESTACARFORM:hover{
+    background-color: blueviolet;
+    cursor: pointer;
 }
