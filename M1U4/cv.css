@@ -1,0 +1,29 @@
+h1{
+    text-transform: uppercase;
+}
+h1{
+    text-align-last: center;
+}
+H4{
+    text-transform: uppercase;
+    font-size: 18px;
+}
+h5{
+    text-transform: uppercase;
+    font-size: 18px;
+}
+li{
+    text-align-last: center;
+}
+H6{
+    background-color: coral;
+    font-size: large;
+}
+.DESTACADOS{
+    color: crimson;
+    caret-color: 53;
+}
+.DESTACADOPERFIL{
+    text-decoration-line: underline;
+    text-decoration-thickness: 12;
+}
