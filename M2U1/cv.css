@@ -1,8 +1,12 @@
 h1{
     text-transform: uppercase;
-}
-h1{
-    text-align-last: center;
+    text-align: center;
+    color: rgb(161, 39, 161);
+    background-image: linear-gradient(to top, #d299c2 0%, #fef9d7 100%);
+    width: 200px;
+    height: 100px;
+    margin-left: 425px;
+    font-family: 'Xanh Mono', monospace;
 }
 H4{
     text-transform: uppercase;
@@ -14,6 +18,8 @@ h5{
 }
 li{
     text-align-last: center;
+    font-family: 'Lobster Two', cursive;
+    font-size: 20px;
 }
 H6{
     background-color: coral;
@@ -28,8 +34,16 @@ H6{
 }
 .DESTACADOPERFIL{
     text-decoration-line: underline;
+    background-color: indianred;
+    width: 75px;
+    padding: 20px;
+    border-radius: 25px 0;
 }
 .DESTACARFORM:hover{
     background-color: blueviolet;
     cursor: pointer;
+    box-shadow: 15px 10px 10px gray;
 }
+/* font-family: 'Lobster', cursive;
+font-family: 'Lobster Two', cursive;
+font-family: 'Xanh Mono', monospace; */
